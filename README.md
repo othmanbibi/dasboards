@@ -2,7 +2,7 @@ These are some cool dasboards I have created during one of my previous inernship
 
 ---
 Click on the image to see other dashboards
-[![PDF Preview](./images/pdf-preview.png)](./docs/myfile.pdf)
+[![PDF Preview](docs/WWTP_Report_compressed-1.png-)](docs/WWTP_Report_compressed.pdf)
 
 ---
 This another project : 
